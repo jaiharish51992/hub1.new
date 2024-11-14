@@ -1,0 +1,33 @@
+p
+{font-weight: bold;
+    color: blue;font-size: large; background-color: aquamarine;
+}
+body
+{
+    
+    width:100% ;
+    margin: 0;padding: 0; 
+    background-image:url(birds.webp);
+    background-repeat: no-repeat;
+    background-position: center ;
+
+}
+.maths{
+    color: red;font-size: 5rem; text-align: center;
+ }
+th,td{
+    border:1px solid  red;
+    border-radius: 40px;
+}
+.bbb{
+   border: 1px solid ; border-color:red;
+    border-radius: 40px; width: 50%;
+    background: #ee9ca7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+padding-left: 10px;
+}
+.mine{
+    border: 1px solid black;
+    
+}
